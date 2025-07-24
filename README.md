@@ -3,7 +3,8 @@ Projeto DIO Análise de dados com Python e Pandas
 
 # Análise de Dados com Python e Pandas: Um Guia Passo a Passo
 
-Este README fornece um roteiro básico para realizar análise de dados usando Python e a biblioteca Pandas. Ele é baseado no fluxo de trabalho típico que você pode seguir ao trabalhar com conjuntos de dados.
+Roteiro básico para realizar análise de dados usando Python e a biblioteca Pandas. 
+Ele é baseado no fluxo de trabalho típico que você pode seguir ao trabalhar com conjuntos de dados.
 
 ## 1. Fundamentos Básicos de Python
 
